@@ -1,0 +1,23 @@
+使用宝塔安装源码，后端和前端分别配置两个站点，修改数据库配置文件，导入数据库bjl.sql
+通过宝塔设置thinkphp的伪静态
+后台地址：http://域名/index/login/index.html
+后台账号：admin
+后台密码：www.xi97b.cn
+
+要修改的地方
+Admin\application\weixin\index\wxlogin\index.php
+Admin\public\index.html
+js\LayaSample.js
+替换掉域名
+
+Admin\application\database.php
+修改配置文件
+
+Admin\application\weixin\controller\Index.php
+修改appid和appsecret
+
+西97源码城http://www.xi97b.cn/（代理188无限制下载站内资源！）
+
+技术支持QQ:1700271279
+
+服务器  域名 公众号购买可咨询！~

@@ -1,0 +1,6 @@
+.vscode/*
+.project
+.buildpath
+.settings/*
+StakeList.txt
+BankerList.txt
